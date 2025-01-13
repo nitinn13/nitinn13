@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nitinjha080@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KROnM2e0vIBnp0IWYglMFzV8rmmyuv4Z/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UE4mNO4hmEyFTTS31C5CTmFYK01b_7KZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
