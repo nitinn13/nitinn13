@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinn13" alt="nitinn13" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **nitinjha080@gmail.com**
 
