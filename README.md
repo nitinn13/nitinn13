@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solana**
 
-- 👨‍💻 All of my projects are available at [https://nitinkumarjha.pages.dev/](https://nitinxdev.fun)
+- 👨‍💻 All of my projects are available at [https://nitinxdev.fun/](https://nitinxdev.fun)
 
 - 📫 How to reach me **nitinjha080@gmail.com**
 
