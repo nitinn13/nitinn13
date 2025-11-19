@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitinxjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitinxjha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nitin-kumar-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-kumar-jha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nitinjha080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinjha080" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nitinn0313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitinn0313" height="30" width="40" /></a>
+<a href="https://twitter.com/nitinxjha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitinxjha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitin-kumar-jha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-kumar-jha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nitinjha080" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinjha080" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nitinn0313" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitinn0313" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
