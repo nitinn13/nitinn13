@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nitinjha080@gmail.com**
 
-- 📄 Know about my experiences [Nitin's Resume](https://drive.google.com/file/d/1CcKy_H5Y6un0Hg5Gw1gxWgPLDtpnHoON/view?usp=drive_link)
+- 📄 Know about my experiences [Nitin's Resume](https://drive.google.com/file/d/161TF8Pm9qbnRML21FJemRKjQqfKN2FZj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
